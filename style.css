@@ -223,7 +223,8 @@
     color: #fff;
     text-transform: uppercase;
     font-weight: 700;
-    text-decoration: none
+    text-decoration: none;
+    border-radius: var(--dl-radius-radius-radius24);
   }
   .hot {
       position: absolute;
